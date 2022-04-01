@@ -27,7 +27,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'gabia_maeumgyeol';
+    font-family: 'gabia_cheongyeon';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gabia/gabia_cheongyeon.eot');
@@ -46,7 +46,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'gabia_maeumgyeol';
+    font-family: 'gabia_solmee';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gabia/gabia_solmee.eot');
@@ -66,7 +66,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'gabia_maeumgyeol';
+    font-family: 'gabia_napjakBlock';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gabia/gabia_napjakBlock.eot');
